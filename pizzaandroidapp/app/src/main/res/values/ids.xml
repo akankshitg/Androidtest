@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="formLayout" type="id">formLayout</item>
+    <item name="Lview" type="id">Lview</item>
+</resources>
